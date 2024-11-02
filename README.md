@@ -4,7 +4,7 @@
 - 💞️ I’m working in wollo universty school of civil and water resources engineering
 - 📫 I’m a Msc in water supply and sanitary engineering
 - 😄 Pronouns: I’m a junior researcher in water resource management
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: play 
 
 <!---
 TigistAbiye/TigistAbiye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
